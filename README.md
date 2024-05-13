@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this progran you need to have npm in your computer.
+First run 'npm install' comand. It will install needed components.
+Then run backend program. Then Run frontend with script 'npm start'.
+
 ## Available Scripts
 
 In the project directory, you can run:
